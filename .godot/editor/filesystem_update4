@@ -1,3 +1,3 @@
-res://character.dch
-res://Left Side.dtl
+res://node_2d.tscn
 res://Default Text Style.tres
+res://Button.gd
