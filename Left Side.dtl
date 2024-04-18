@@ -1,6 +1,7 @@
 [style name="Default Text Style"]
 [background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
 You swam up to the shore, not sure where to go.
+hellooooo
 [wait time="2.0"]
 [background arg="res://Backgrounds/ashore.JPG" fade="0.0"]
 join character (default) 1
