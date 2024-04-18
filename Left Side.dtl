@@ -1,0 +1,15 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You swam up to the shore, not sure where to go.
+[wait time="2.0"]
+[background arg="res://Backgrounds/ashore.JPG" fade="0.0"]
+join character (default) 1
+[wait time="2.0"]
+character (talk): Wow...
+character (default): I've never been here before...
+character (talk): To begin with I haven't seen a single living being since I came here... weird.
+character (talk): Should I go on?
+- Go Back
+	jump timeline/
+- Continue walking
+	jump 

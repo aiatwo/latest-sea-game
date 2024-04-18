@@ -1,0 +1,19 @@
+[style name="Default Text Style"]
+[background arg="res://Backgrounds/under the sea.JPG" fade="0.0"]
+join character (default) 1
+character: WHERE AM I????
+character (stressed default): Did I accidentally enter some multidimensional gate??
+character (talk): I need to get out of here...
+character (talk): Or maybe I'll explore a little?
+- Go back
+	character (stressed default): How am I supposed to get back home?
+	character (talk): I heard that hitting yourself can wake you up sometimes.
+	character (talk): Well...Doesn't hurt to try.
+	leave character
+	jump ending 1/
+- Explore
+	character (talk): Hmm.... Where should I go?
+	- Go Left
+		leave character
+		jump Left Side/
+	- Go Right

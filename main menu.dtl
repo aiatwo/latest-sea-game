@@ -1,0 +1,4 @@
+[background arg="res://Backgrounds/Main Screen.jpg" fade="0.0"]
+[style name="Default Text Style"]
+- ENTER
+	jump timeline/

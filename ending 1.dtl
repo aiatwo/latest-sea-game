@@ -1,0 +1,14 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You hit your head against a rock really hard.
+[wait time="2.0" hide_text="false"]
+[background arg="res://Backgrounds/bedroom.jpg" fade="3.0"]
+What was that?
+[wait time="1.0"]
+Must've been a crazy dream...
+I don't remember anything.
+Well it must've not been important if I dont remember it.
+Time to go back to work.
+[background arg="res://Ending Scenes/Ending 1.jpg" fade="3.0"]
+[wait time="2.0"]
+[wait time="5.0"]

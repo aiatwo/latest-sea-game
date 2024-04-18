@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="DialogicStyle" load_steps=8 format=3 uid="uid://c3fppjrcxw2qy"]
+
+[ext_resource type="PackedScene" uid="uid://syki6k0e6aac" path="res://addons/dialogic/Modules/DefaultLayoutParts/Base_TextBubble/text_bubble_base.tscn" id="1_n0lbc"]
+[ext_resource type="PackedScene" uid="uid://cn674foxwedqu" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn" id="2_sxvjp"]
+[ext_resource type="Script" path="res://addons/dialogic/Resources/dialogic_style_layer.gd" id="3_76ia2"]
+[ext_resource type="PackedScene" uid="uid://d2it0xiap3gnt" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Textbubble/text_bubble_layer.tscn" id="4_nm23r"]
+[ext_resource type="Script" path="res://addons/dialogic/Resources/dialogic_style.gd" id="5_ovbet"]
+
+[sub_resource type="Resource" id="Resource_wnv3q"]
+script = ExtResource("3_76ia2")
+scene = ExtResource("2_sxvjp")
+overrides = {}
+
+[sub_resource type="Resource" id="Resource_17cd5"]
+script = ExtResource("3_76ia2")
+scene = ExtResource("4_nm23r")
+overrides = {
+"box_padding": "Vector2(100, 0)",
+"text_size": "57.0"
+}
+
+[resource]
+script = ExtResource("5_ovbet")
+name = "test"
+base_scene = ExtResource("1_n0lbc")
+base_overrides = {}
+layers = Array[ExtResource("3_76ia2")]([SubResource("Resource_wnv3q"), SubResource("Resource_17cd5")])
+metadata/_latest_layer = 1
