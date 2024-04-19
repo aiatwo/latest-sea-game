@@ -1,3 +1,12 @@
-res://node_2d.tscn
+res://character.dch
+res://Left Side.dtl
 res://Default Text Style.tres
-res://Button.gd
+res://node_2d.tscn
+res://Grassy Area.dtl
+res://ending 1.dtl
+res://snowy area.dtl
+res://timeline.dtl
+res://Backgrounds/snowy plains.dtl
+res://cabin.dtl
+res://main menu.dtl
+res://Ending Scenes/introduction.dtl

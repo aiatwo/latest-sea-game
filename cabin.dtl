@@ -1,0 +1,18 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You walked towards the cabin.
+The door was left unlocked, as if it was expecting someone.
+[background arg="res://Backgrounds/cabin.jpg" fade="2.0"]
+join character (default) 1
+character (talk): Woah...
+character (default): This place is so warm.
+character (talk): Someone must have left recently, seeing as there is still a burning fire.
+character (default): I guess in the meantime, I'll wait for them...
+character (talk): But I think I'll take a nap first. I'm tired from all the walking I did today.
+character (default): I hope I get out of here soon...
+leave character
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+As you fall asleep, you wonder when the snowstorm will end.
+[background arg="res://Ending Scenes/Ending 2.jpg" fade="5.0"]
+[wait time="5.0"]
+jump main menu/

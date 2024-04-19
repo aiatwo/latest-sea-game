@@ -1,0 +1,11 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You swam until the water turned cold, forcing you to come ashore to look for shelter.
+[background arg="res://Backgrounds/icy lake.jpg" fade="2.0"]
+join character (default) 1
+character (talk): No wonder the water was freezing.
+character (default): The snow land looks beautiful. 
+character (talk): I think I'll walk around until I find shelter before it gets dark.
+- Explore
+	jump snowy plains/
+	leave character

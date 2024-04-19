@@ -1,4 +1,15 @@
-[background arg="res://Backgrounds/Main Screen.jpg" fade="0.0"]
+[background arg="res://Backgrounds/main.jpg" fade="0.0"]
 [style name="Default Text Style"]
-- ENTER
-	jump timeline/
+- start
+	jump introduction/
+- extra
+	[background arg="res://Backgrounds/extra screen.jpg" fade="0.0"]
+	Where can I go to?
+	- Lake
+		jump Left Side/
+	- Winter Forest
+		jump snowy area/
+	- Grasslands
+		jump Grassy Area/
+	- Winter Plains
+		jump snowy plains/

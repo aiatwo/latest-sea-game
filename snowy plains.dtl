@@ -1,0 +1,27 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You wander around admiring the snow and the scenery until the sun begins to set.
+You feel a snowstorm coming, and finally reach a snowy plain, noticing a small cabin in the distance.
+[background arg="res://Backgrounds/snowy plains.JPG" fade="2.0" transition="Simple Fade"]
+join character (default) 1
+character (talk): A cabin!!
+character (default): It must mean that someone lives there.
+character (default): Let's head over there
+- Walk towards the cabin
+	leave character
+	jump cabin/
+- Go back
+	character (stressed talk): Are you sure?
+	- Yes
+		character (talk): Ok then.
+		leave character
+		[background arg="res://Ending Scenes/Black Bg.jpg" fade="2.0"]
+		You walk away from the cabin.
+		The weather turns into a violent snowstorm, and you lose your path and vision.
+		[background arg="res://Ending Scenes/ending 4.jpg" fade="2.0"]
+		[wait time="5.0"]
+		jump main menu/
+	- No
+		You walk towards the cabin.
+		[wait time="2.0"]
+		jump cabin/

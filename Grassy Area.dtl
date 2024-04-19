@@ -1,0 +1,20 @@
+[style name="Default Text Style"]
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+You wander with no clear direction.
+The landscape shifts to a grassy plain, where the lush grass and flowers greet you.
+[wait time="2.0"]
+[background arg="res://Backgrounds/grassy area.JPG" fade="0.0"]
+join character (talk) 1
+Where is this place?
+Hello??? Is anyone there?
+...
+I guess not.
+Well the weather is nice, and I'm kind of tired from walking everywhere. 
+I'll take a nap under this tree and continue later...
+leave character
+[background arg="res://Backgrounds/sleeping fish grass.jpg" fade="0.0"]
+You continued to nap, losing track of the time...
+[wait time="2.0"]
+[background arg="res://Ending Scenes/ending 3.jpg" fade="2.0" transition="Simple Fade"]
+[wait time="5.0"]
+jump main menu/

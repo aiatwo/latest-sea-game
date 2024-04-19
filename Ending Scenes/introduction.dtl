@@ -1,0 +1,14 @@
+[background arg="res://1st Cutscene/1.JPG" fade="3.0"]
+[style name="Default Text Style"]
+You're a fresh grad student who recently landed a job!
+[background arg="res://1st Cutscene/2.JPG" fade="0.0"]
+You work in advertisement, creating posters for a company that sells tinned cans of seafood.
+[background arg="res://1st Cutscene/3.JPG" fade="0.0"]
+Even though your boss gets angry at you often, you don't take it to heart and live life to the fullest.
+[background arg="res://1st Cutscene/4.JPG" fade="0.0"]
+One day when you were walking home....
+[background arg="res://1st Cutscene/5.JPG" fade="0.0"]
+A truck crashing into you in the most cliche manner!
+[background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
+Now you're slowly gaining consciousness... wondering where you are...
+jump timeline/

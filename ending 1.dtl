@@ -6,9 +6,9 @@ You hit your head against a rock really hard.
 What was that?
 [wait time="1.0"]
 Must've been a crazy dream...
-I don't remember anything.
-Well it must've not been important if I dont remember it.
-Time to go back to work.
+I don't remember anything from yesterday night after I got off work.
+Well if I didn't remember it it probably wasn't very important anyways.
+Time to start another day at work.
 [background arg="res://Ending Scenes/Ending 1.jpg" fade="3.0"]
-[wait time="2.0"]
 [wait time="5.0"]
+jump main menu/

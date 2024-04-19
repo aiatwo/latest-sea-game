@@ -1,7 +1,9 @@
 [style name="Default Text Style"]
 [background arg="res://Backgrounds/under the sea.JPG" fade="0.0"]
 join character (default) 1
+character (stressed default): HUH????
 character: WHERE AM I????
+I THOUGHT I DIED!!!!
 character (stressed default): Did I accidentally enter some multidimensional gate??
 character (talk): I need to get out of here...
 character (talk): Or maybe I'll explore a little?
@@ -17,3 +19,5 @@ character (talk): Or maybe I'll explore a little?
 		leave character
 		jump Left Side/
 	- Go Right
+		leave character
+		jump snowy area/
