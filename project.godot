@@ -35,7 +35,7 @@ directories/dtl_directory={
 "snowy plains": "res://snowy plains.dtl",
 "timeline": "res://timeline.dtl"
 }
-layout/style_list=["res://Default Text Style.tres"]
+layout/style_list=["res://Default Text Style.tres", "res://main menu buttons.tres"]
 layout/default_style=""
 variables={}
 text/letter_speed=0.01

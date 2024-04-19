@@ -11,4 +11,5 @@ func _process(delta):
 	pass
 
 func _pressed():
-	text = "nah"
+	Dialogic.start("main menu")
+	pass
