@@ -1,19 +1,19 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713506290
+::res://::1713507226
 Button.gd::GDScript::-1::1713500989::0::1::::<>Button<>::
 cabin.dtl::Resource::-1::1713496823::0::1::::<><>::
 character.dch::Resource::-1::1713498744::0::1::::<><>::
-Default Text Style.tres::Resource/DialogicStyle::8044990218919937542::1713499821::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+Default Text Style.tres::Resource/DialogicStyle::8044990218919937542::1713506712::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 ending 1.dtl::Resource::-1::1713498734::0::1::::<><>::
-export_presets.cfg::TextFile::-1::1713503255::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1713504145::0::1::::<><>::
 FONT.ttf::FontFile::2689968706059691345::1713419674::1713466561::1::::<><>::
 Grassy Area.dtl::Resource::-1::1713472167::0::1::::<><>::
 icon.svg::CompressedTexture2D::5034520201864007411::1713411077::1713466562::1::::<><>::
 Left Side.dtl::Resource::-1::1713470859::0::1::::<><>::
-main menu buttons.tres::Resource/DialogicStyle::5004230770005802272::1713502914::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://by6waso0mjpjp::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_SpeakerPortraitTextbox/textbox_with_speaker_portrait.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+main menu buttons.tres::Resource/DialogicStyle::5004230770005802272::1713506712::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://by6waso0mjpjp::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_SpeakerPortraitTextbox/textbox_with_speaker_portrait.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 main menu.dtl::Resource::-1::1713499373::0::1::::<><>::
 main.tscn::PackedScene::1910106558131933245::1713465924::0::1::::<><>::
-node_2d.tscn::PackedScene::5080343765268702736::1713506290::0::1::::<><>::res://Button.gd<>uid://c5pdyimwwn8l1::::res://Backgrounds/start screen.jpg
+node_2d.tscn::PackedScene::5080343765268702736::1713507124::0::1::::<><>::res://Button.gd<>uid://c5pdyimwwn8l1::::res://Backgrounds/start screen.jpg
 Screen Shot 2024-04-18 at 12.25.56 PM.png::CompressedTexture2D::2971332905324595412::1713461161::1713466564::1::::<><>::
 snowy area.dtl::Resource::-1::1713494076::0::1::::<><>::
 snowy plains.dtl::Resource::-1::1713495746::0::1::::<><>::
@@ -609,9 +609,9 @@ event.gd::GDScript::-1::1713411102::0::1::::DialogicEvent<>Resource<>::
 timeline.gd::GDScript::-1::1713411102::0::1::::DialogicTimeline<>Resource<>::
 TimelineResourceLoader.gd::GDScript::-1::1713411102::0::1::::DialogicTimelineFormatLoader<>ResourceFormatLoader<>::
 TimelineResourceSaver.gd::GDScript::-1::1713411102::0::1::::DialogicTimelineFormatSaver<>ResourceFormatSaver<>::
-::res://Backgrounds/::1713506305
+::res://Backgrounds/::1713507226
 ashore.JPG::CompressedTexture2D::4427356527309422487::1713464855::1713466562::1::::<><>::
-bedroom.jpg::CompressedTexture2D::5278143867038958229::1713452921::1713466562::1::::<><>::
+bedroom.jpg::CompressedTexture2D::5633440031110777601::1713507214::1713507226::1::::<><>::
 cabin.jpg::CompressedTexture2D::7279034470569541046::1713493685::1713493685::1::::<><>::
 extra screen.jpg::CompressedTexture2D::189636993752565231::1713498868::1713498909::1::::<><>::
 grassy area.JPG::CompressedTexture2D::644235315308980239::1713464862::1713466562::1::::<><>::

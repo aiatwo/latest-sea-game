@@ -97,8 +97,8 @@ res://addons/dialogic/Modules/Text/character_settings/character_moods_settings.t
 res://addons/dialogic/Modules/Text/character_settings/character_portrait_mood_settings.tscn::cb6d691e62e2b3cebb19d776faa73755::1713411102::res://.godot/exported/133200997/export-37c35566857061453231ad11bc175413-character_portrait_mood_settings.scn
 res://addons/dialogic/Modules/Text/settings_text.tscn::6b06afbd230d98b73c6d0e9e1c880ea7::1713411102::res://.godot/exported/133200997/export-67100a9f8a5726886cf8dbc525c7a035-settings_text.scn
 res://addons/dialogic/Modules/Variable/variables_editor/variables_editor.tscn::d4ddb74da471b473b2d64b9166b727bb::1713411102::res://.godot/exported/133200997/export-81d6117e9fbfcc345d9d0dd8f77e3c55-variables_editor.scn
-res://Default Text Style.tres::fc004c60ead1752c0539f1366b5147ff::1713499821::res://.godot/exported/133200997/export-10d1baef9280e904d48a83c65614ef76-Default Text Style.res
-res://main menu buttons.tres::f680a62bbc79a1e70c8000e8b567ce24::1713502914::res://.godot/exported/133200997/export-54d33749d17b96013d9826b415986345-main menu buttons.res
+res://Default Text Style.tres::fc004c60ead1752c0539f1366b5147ff::1713506712::res://.godot/exported/133200997/export-10d1baef9280e904d48a83c65614ef76-Default Text Style.res
+res://main menu buttons.tres::f680a62bbc79a1e70c8000e8b567ce24::1713506712::res://.godot/exported/133200997/export-54d33749d17b96013d9826b415986345-main menu buttons.res
 res://main.tscn::33535da528b7357582abcfb38a54e91e::1713465924::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
-res://node_2d.tscn::9595e05480a89e5c47c195af7168ffda::1713502991::res://.godot/exported/133200997/export-362256a061aa8890e9a1e558b11e5ec3-node_2d.scn
+res://node_2d.tscn::9595e05480a89e5c47c195af7168ffda::1713507320::res://.godot/exported/133200997/export-362256a061aa8890e9a1e558b11e5ec3-node_2d.scn
 res://test.tres::966b4ea8279e7facbf85cd7fe2d35a08::1713450772::res://.godot/exported/133200997/export-c1ce513a03e798ec805f6da8b56399e9-test.res
