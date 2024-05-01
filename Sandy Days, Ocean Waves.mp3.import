@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://03jglc4hgheb"
+path="res://.godot/imported/Sandy Days, Ocean Waves.mp3-b0b45cd6899aac99d24f4908af40d368.mp3str"
+
+[deps]
+
+source_file="res://Sandy Days, Ocean Waves.mp3"
+dest_files=["res://.godot/imported/Sandy Days, Ocean Waves.mp3-b0b45cd6899aac99d24f4908af40d368.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1714532474
+::res://::1714534186
 Button.gd::GDScript::-1::1713500989::0::1::::<>Button<>::
 cabin.dtl::Resource::-1::1713496823::0::1::::<><>::
 character.dch::Resource::-1::1713498744::0::1::::<><>::
-Default Text Style.tres::Resource/DialogicStyle::8044990218919937542::1714405400::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+Default Text Style.tres::Resource/DialogicStyle::8044990218919937542::1714534115::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 ending 1.dtl::Resource::-1::1713507243::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1713507351::0::1::::<><>::
 FONT.ttf::FontFile::2689968706059691345::1713419674::1713466561::1::::<><>::
@@ -14,6 +14,7 @@ main menu buttons.tres::Resource/DialogicStyle::5004230770005802272::1714405402:
 main menu.dtl::Resource::-1::1713499373::0::1::::<><>::
 main.tscn::PackedScene::1910106558131933245::1713465924::0::1::::<><>::
 node_2d.tscn::PackedScene::5080343765268702736::1714404160::0::1::::<><>::res://Button.gd<>uid://c5pdyimwwn8l1::::res://Backgrounds/start screen.jpg
+Sandy Days, Ocean Waves.mp3::AudioStreamMP3::1813081417936496997::1714534186::1714534186::1::::<><>::
 Screen Shot 2024-04-18 at 12.25.56 PM.png::CompressedTexture2D::2971332905324595412::1713461161::1713466564::1::::<><>::
 snowy area.dtl::Resource::-1::1713494076::0::1::::<><>::
 snowy plains.dtl::Resource::-1::1713495746::0::1::::<><>::
