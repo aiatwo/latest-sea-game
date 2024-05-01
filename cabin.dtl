@@ -14,5 +14,6 @@ leave character
 [background arg="res://Ending Scenes/Black Bg.jpg" fade="0.0"]
 As you fall asleep, you wonder when the snowstorm will end.
 [background arg="res://Ending Scenes/Ending 2.jpg" fade="5.0"]
+[music path="res://Submerged.mp3" fade="3.0" volume="-10.0"]
 [wait time="5.0"]
 jump main menu/

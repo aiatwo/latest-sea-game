@@ -1,4 +1,4 @@
-[music path="res://Sandy Days, Ocean Waves.mp3" fade="0.0" volume="-5.0"]
+[music path="Sandy Days, Ocean Waves.mp3" fade="0.0" volume="-5.0"]
 [background arg="res://Backgrounds/main.jpg" fade="0.0"]
 [style name="Default Text Style"]
 - start

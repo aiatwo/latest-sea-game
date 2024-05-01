@@ -9,6 +9,7 @@ Must've been a crazy dream...
 I don't remember anything from yesterday night after I got off work.
 Well if I didn't remember it it probably wasn't very important anyways.
 Time to start another day at work.
+[music path="res://Submerged.mp3" fade="3.0" volume="-10.0"]
 [background arg="res://Ending Scenes/Ending 1.jpg" fade="3.0"]
 [wait time="5.0"]
 jump main menu/
