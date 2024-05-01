@@ -6,21 +6,43 @@
 [node name="Node2D" type="Node2D"]
 scale = Vector2(0.54, 0.54)
 
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(1070.37, 603.704)
-zoom = Vector2(3.53, 3.53)
-
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(1070.53, 616.988)
 scale = Vector2(1.146, 1.146)
 texture = ExtResource("1_lf5mj")
 
-[node name="Button" type="Button" parent="."]
-offset_left = 870.53
-offset_top = 550.488
-offset_right = 1269.53
-offset_bottom = 688.488
-scale = Vector2(1.146, 1.146)
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 2.0
+offset_top = -2.0
+offset_right = 2135.0
+offset_bottom = 1197.0
+size_flags_vertical = 3
+
+[node name="Camera2D" type="Camera2D" parent="Control"]
+position = Vector2(1068.37, 605.704)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="Button" type="Button" parent="Control/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
 theme_override_font_sizes/font_size = 50
 text = "<•)))))><"
 script = ExtResource("1_e4lty")
+metadata/_edit_use_anchors_ = true

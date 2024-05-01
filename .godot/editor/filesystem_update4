@@ -1,8 +1,4 @@
 res://Default Text Style.tres
-res://node_2d.tscn
 res://main menu buttons.tres
-res://main menu.dtl
 res://character.dch
-res://ending 1.dtl
-res://cabin.dtl
-res://Grassy Area.dtl
+res://node_2d.tscn
