@@ -1,5 +1,5 @@
 [music path="Sandy Days, Ocean Waves.mp3" fade="0.0" volume="-5.0"]
-[background arg="res://Backgrounds/main.jpg" fade="0.0"]
+[background arg="res://Backgrounds/Main Menu.jpg" fade="0.0"]
 [style name="Default Text Style"]
 - start
 	jump introduction/
@@ -14,3 +14,7 @@
 		jump Grassy Area/
 	- Winter Plains
 		jump snowy plains/
+- credits
+	[background arg="res://Credits.jpg" fade="0.0"]
+	[wait time="10.0"]
+	jump main menu/
